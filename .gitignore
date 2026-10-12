@@ -1,4 +1,12 @@
+# Maven build outputs
 target/
+*.class
+
+# IntelliJ IDEA
 .idea/
-*.iml
-.DS_Store
+
+# VS Code
+.vscode/
+
+# Log files
+*.log
